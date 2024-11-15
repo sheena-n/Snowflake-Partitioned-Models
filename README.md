@@ -9,5 +9,5 @@ Step 2: Run python script MULTI_TIMESRIES_CLTV_PREDICTION/notebook_app.ipynb
 - Download notebook_app.ipynb and environment.yml files
 - Create a Snowflake notebook by importing the notebook_app.ipynb file
   Documentation: https://docs.snowflake.com/en/user-guide/ui-snowsight/notebooks-setup
- ![Importing notebook files into Snowfale notebook](Snowflake-Partitioned-Models/notebook_import.gif)
+ ![Importing notebook files into Snowfale notebook](notebook_import.gif)
 
